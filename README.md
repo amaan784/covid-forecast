@@ -1,4 +1,4 @@
-# NOTE: Anything here wasn't made by me. 
+NOTE: Anything here wasn't made by me. 
         I forked and hosted this web app to test it so that I can run my own streamlit web app. 
         I had problems with installation of fbprophet so the files here would help me host the webapp I made.
 
